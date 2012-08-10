@@ -107,7 +107,7 @@
     itemArray = [NSArray arrayWithObjects:item1, item2, item3, item4, item5, nil];
     //NSLog(@"%@", [itemArray description]);
     
-    //Create Mutible String
+    //Create Mutable String
     itemText = [[NSMutableString alloc] initWithCapacity:5];
     
     for (int x = 0; x < itemArray.count; x++) {
