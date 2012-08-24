@@ -1,6 +1,6 @@
 //
 //  ViewController.h
-//  Project 2
+//  Project 2 AOC
 //
 //  Created by Janis Jae on 8/9/12.
 //  Copyright (c) 2012 Janis Jae. All rights reserved.
