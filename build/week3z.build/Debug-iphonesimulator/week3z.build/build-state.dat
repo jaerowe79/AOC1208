@@ -1,0 +1,256 @@
+Tweek3z
+v7
+r0
+t366793831.798795
+cCheck dependencies
+cProcessInfoPlistFile /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/Info.plist week3z-Info.plist
+cCompileXIB /Users/janishines/Desktop/week3z/MainWindow.xib
+cCompileXIB /Users/janishines/Desktop/week3z/week3zViewController.xib
+cProcessPCH /var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch.gch week3z_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/main.o /Users/janishines/Desktop/week3z/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zAppDelegate.o /Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zViewController.o /Users/janishines/Desktop/week3z/Classes/week3zViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z normal i386
+cGenerateDSYMFile /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app.dSYM /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z
+cTouch /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004F28CE5F0000000000000110
+t1328074335
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.h
+c00000000502C93D700000000000001D6
+t1345098711
+s470
+i<UIKit/UIKit.h>
+
+N/Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m
+c00000000502C93D70000000000000AA2
+t1345098711
+s2722
+i"week3zAppDelegate.h"
+i"week3zViewController.h"
+
+N/Users/janishines/Desktop/week3z/Classes/week3zViewController.h
+c00000000502C9CE7000000000000022D
+t1345101031
+s557
+i<UIKit/UIKit.h>
+
+N/Users/janishines/Desktop/week3z/Classes/week3zViewController.m
+c00000000502C9CE70000000000001551
+t1345101031
+s5457
+i"week3zViewController.h"
+
+N/Users/janishines/Desktop/week3z/MainWindow.xib
+c00000000502C93D80000000000004E1D
+t1345098712
+s19997
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app
+t1345101031
+s238
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app.dSYM
+t1345101031
+s102
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/Info.plist
+t1345099825
+s587
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/MainWindow.nib
+t1345099826
+s1679
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/PkgInfo
+t1345099825
+s8
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z
+t1345101031
+s23936
+
+N/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3zViewController.nib
+t1345099826
+s1269
+
+N/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/main.o
+t1345099828
+s6300
+
+N/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3z.LinkFileList
+c00000000502C98310000000000000173
+t1345099825
+s371
+
+N/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zAppDelegate.o
+t1345101031
+s51244
+
+N/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zViewController.o
+t1345101031
+s57940
+
+N/Users/janishines/Desktop/week3z/main.m
+c00000000502C93D80000000000000165
+t1345098712
+s357
+i<UIKit/UIKit.h>
+
+N/Users/janishines/Desktop/week3z/week3zViewController.xib
+c00000000502C93D80000000000001A41
+t1345098712
+s6721
+
+N/Users/janishines/Desktop/week3z/week3z_Prefix.pch
+c00000000502C93D800000000000000B5
+t1345098712
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch.gch
+t1345099827
+s15814064
+
+Nweek3z-Info.plist
+c00000000502C93D8000000000000038D
+t1345098712
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies366793831#366793831#0(0"0(0#1#0"4654642496#0"0#
+
+CCompileC build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/main.o /Users/janishines/Desktop/week3z/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366792627.969496
+e366792628.088907
+r1
+xCompileC
+xbuild/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/main.o
+x/Users/janishines/Desktop/week3z/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/janishines/Desktop/week3z/main.m366792627#366792628#0(0"0(0#0#39"/Users/janishines/Desktop/week3z/main.m4641545872#1824"    cd /Users/janishines/Desktop/week3z    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-generated-files.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-own-target-headers.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-all-target-headers.hmap -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-project-headers.hmap -F/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator -I/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/include -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources/i386 -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources -include /var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch -c /Users/janishines/Desktop/week3z/main.m -o /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/main.o0#
+
+CCompileC build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zAppDelegate.o /Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366793831.651746
+e366793831.707074
+r1
+xCompileC
+xbuild/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zAppDelegate.o
+x/Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m366793831#366793831#0(0"0(0#0#60"/Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m4654640784#1858"    cd /Users/janishines/Desktop/week3z    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-generated-files.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-own-target-headers.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-all-target-headers.hmap -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-project-headers.hmap -F/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator -I/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/include -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources/i386 -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources -include /var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch -c /Users/janishines/Desktop/week3z/Classes/week3zAppDelegate.m -o /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zAppDelegate.o0#
+
+CCompileC build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zViewController.o /Users/janishines/Desktop/week3z/Classes/week3zViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366793831.652366
+e366793831.762634
+r1
+xCompileC
+xbuild/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zViewController.o
+x/Users/janishines/Desktop/week3z/Classes/week3zViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/janishines/Desktop/week3z/Classes/week3zViewController.m366793831#366793831#0(0"0(0#0#63"/Users/janishines/Desktop/week3z/Classes/week3zViewController.m4654640784#1864"    cd /Users/janishines/Desktop/week3z    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-generated-files.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-own-target-headers.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-all-target-headers.hmap -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-project-headers.hmap -F/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator -I/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/include -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources/i386 -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources -include /var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch -c /Users/janishines/Desktop/week3z/Classes/week3zViewController.m -o /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3zViewController.o0#
+
+CCompileXIB /Users/janishines/Desktop/week3z/MainWindow.xib
+s366792625.688254
+e366792626.288134
+r1
+xCompileXIB
+x/Users/janishines/Desktop/week3z/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib366792625#366792626#0(0"0(0#0#47"/Users/janishines/Desktop/week3z/MainWindow.xib4641545872#551"    cd /Users/janishines/Desktop/week3z    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/MainWindow.nib /Users/janishines/Desktop/week3z/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/janishines/Desktop/week3z/week3zViewController.xib
+s366792625.689692
+e366792626.288236
+r1
+xCompileXIB
+x/Users/janishines/Desktop/week3z/week3zViewController.xib
+lSLF07#2@35"CompileXIB week3zViewController.xib366792625#366792626#0(0"0(0#0#57"/Users/janishines/Desktop/week3z/week3zViewController.xib4641545872#571"    cd /Users/janishines/Desktop/week3z    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3zViewController.nib /Users/janishines/Desktop/week3z/week3zViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app.dSYM /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z
+s366793831.783296
+e366793831.796748
+r1
+xGenerateDSYMFile
+x/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app.dSYM
+x/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/week3z.app.dSYM build/Debug-iphonesimulator/week3z.app/week3z366793831#366793831#0(0"0(0#0#78"/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z4654640784#362"    cd /Users/janishines/Desktop/week3z    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z -o /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app.dSYM0#
+
+CLd /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z normal i386
+s366793831.762700
+e366793831.783213
+r1
+xLd
+x/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z
+xnormal
+xi386
+lSLF07#2@83"Link /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z366793831#366793831#0(0"0(0#0#0"4654640784#865"    cd /Users/janishines/Desktop/week3z    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator -F/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator -filelist /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/Objects-normal/i386/week3z.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/week3z0#
+
+CProcessInfoPlistFile /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/Info.plist week3z-Info.plist
+s366792625.643784
+e366792625.688200
+r1
+xProcessInfoPlistFile
+x/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/Info.plist
+xweek3z-Info.plist
+lSLF07#2@25"Process week3z-Info.plist366792625#366792625#0(0"0(0#0#50"/Users/janishines/Desktop/week3z/week3z-Info.plist17231447552#458"    cd /Users/janishines/Desktop/week3z    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility week3z-Info.plist -genpkginfo /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app/Info.plist0#
+
+CProcessPCH /var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch.gch week3z_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s366792626.288327
+e366792627.969350
+r1
+xProcessPCH
+x/var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch.gch
+xweek3z_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile week3z_Prefix.pch366792626#366792627#0(0"0(0#0#50"/Users/janishines/Desktop/week3z/week3z_Prefix.pch4641545872#1723"    cd /Users/janishines/Desktop/week3z    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-generated-files.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-own-target-headers.hmap -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-all-target-headers.hmap -iquote /Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/week3z-project-headers.hmap -F/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator -I/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/include -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources/i386 -I/Users/janishines/Desktop/week3z/build/week3z.build/Debug-iphonesimulator/week3z.build/DerivedSources -c /Users/janishines/Desktop/week3z/week3z_Prefix.pch -o /var/folders/c9/pcq2wmls745101gn4jrp_9nr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/week3z_Prefix-byddkgjjmfugydergevivgwqwbaj/week3z_Prefix.pch.gch0#
+
+CTouch /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app
+s366793831.796831
+e366793831.798769
+r1
+xTouch
+x/Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app
+lSLF07#2@77"Touch /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app366793831#366793831#0(0"0(0#0#0"4654640784#265"    cd /Users/janishines/Desktop/week3z    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/janishines/Desktop/week3z/build/Debug-iphonesimulator/week3z.app0#
+
